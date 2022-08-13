@@ -1,11 +1,16 @@
 ### Coding forum UI
 <img align="left" alt="project UI" margin-bottom="25px" src="https://github.com/adityaadhaygude/Coding-forum/blob/master/Screenshot%20(136).png" />
-
-### Category
+<br />
+<br />
+### Coding forum - Category UI
 <img align="left" alt="project UI" src="https://github.com/adityaadhaygude/Coding-forum/blob/master/Screenshot%20(137).png" />
+<br />
+<br />
 
 ### Discussion on specific category
 <img align="left" alt="project UI" src="https://github.com/adityaadhaygude/Coding-forum/blob/master/Screenshot%20(138).png" />
+<br />
+<br />
 
 ### Connect with me:
 
