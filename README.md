@@ -1,7 +1,7 @@
 ### iDiscuss coding forum
 Designed relational database to deal with forum category and data within it. Implemented login system so that anyone can login and post their queries and reply to others queries. Managed session and cookies.
 
--To run this project you need a xampp/wampp server, I prefer xampp. 
+-To run this project you need a xampp/wampp server, I prefer xampp. <br />
 -Then import database sql file into the phpmyadmin database and goto localhost you will see the site running as shown below
 
 ### Coding forum UI
