@@ -12,7 +12,7 @@
 
 ### Discussion on specific category
 
-<img align="left" alt="project UI" width="900px" src="https://github.com/adityaadhaygude/Coding-forum/blob/master/Screenshot%20(138).png" />
+<img alt="project UI" width="900px" src="https://github.com/adityaadhaygude/Coding-forum/blob/master/Screenshot%20(138).png" />
 <br />
 <br />
 
