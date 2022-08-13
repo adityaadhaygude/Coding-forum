@@ -1,8 +1,7 @@
 ### Coding forum
-[<img align="left" alt="project UI" src="https://github.com/adityaadhaygude/Coding-forum/blob/master/Screenshot%20(136).png" />][twitter]
-
-
-
+[<img align="left" alt="project UI" src="https://github.com/adityaadhaygude/Coding-forum/blob/master/Screenshot%20(136).png" />][UI]
+[<img align="left" alt="project UI" src="https://github.com/adityaadhaygude/Coding-forum/blob/master/Screenshot%20(137).png" />][UI]
+[<img align="left" alt="project UI" src="https://github.com/adityaadhaygude/Coding-forum/blob/master/Screenshot%20(138).png" />][UI]
 
 ### Connect with me:
 
