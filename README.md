@@ -1,20 +1,21 @@
 ### Coding forum UI
 
 <img align="left" alt="project UI" width="900px" src="https://github.com/adityaadhaygude/Coding-forum/blob/master/Screenshot%20(136).png" />
-<br>
-<br>
+<br />
+<br />
 
 ### Coding forum - Category UI
 
 <img align="left" alt="project UI" width="900px" src="https://github.com/adityaadhaygude/Coding-forum/blob/master/Screenshot%20(137).png" />
-<br>
-<br>
+<br />
+<br />
 
 ### Discussion on specific category
 
 <img align="left" alt="project UI" width="900px" src="https://github.com/adityaadhaygude/Coding-forum/blob/master/Screenshot%20(138).png" />
-<br>
-<br>
+<br />
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
