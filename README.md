@@ -1,17 +1,20 @@
 ### Coding forum UI
 
-<img align="left" alt="project UI" margin-bottom="25px" src="https://github.com/adityaadhaygude/Coding-forum/blob/master/Screenshot%20(136).png" />
+<img align="left" alt="project UI" width="900px" src="https://github.com/adityaadhaygude/Coding-forum/blob/master/Screenshot%20(136).png" />
+<br>
+<br>
 
 ### Coding forum - Category UI
 
-- <img align="left" alt="project UI" src="https://github.com/adityaadhaygude/Coding-forum/blob/master/Screenshot%20(137).png" />
-- 🥅 2022 Goals: Learn about cyber security
-- ⚡ Fun fact: I love to draw and play games
+<img align="left" alt="project UI" width="900px" src="https://github.com/adityaadhaygude/Coding-forum/blob/master/Screenshot%20(137).png" />
+<br>
+<br>
 
 ### Discussion on specific category
 
-<img align="left" alt="project UI" src="https://github.com/adityaadhaygude/Coding-forum/blob/master/Screenshot%20(138).png" />
-
+<img align="left" alt="project UI" width="900px" src="https://github.com/adityaadhaygude/Coding-forum/blob/master/Screenshot%20(138).png" />
+<br>
+<br>
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
